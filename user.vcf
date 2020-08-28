@@ -7,7 +7,7 @@ ORG:The Law Office of Karen J. Elliott;
 TITLE:Attorney
 EMAIL;type=INTERNET;type=WORK;type=pref:karen@kjelaw.com
 TEL;type=WORK;type=VOICE:410 653 1070
-item1.ADR;type=WORK;type=pref:;;1910 Towne Centre Blvd #250\nAnnapolis\MD;;;21401;USA
+item1.ADR;type=WORK;type=pref:;;1910 Towne Centre Blvd #250 Annapolis,MD;;;21401;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:kjelaw.com
 item2.X-ABLabel:_$!<HomePage>!$_
